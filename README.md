@@ -40,7 +40,7 @@ According to the Box Office Mojo data the top domestic grossing movies are Black
 
 According to the Rotten Tomatoes webiste, the most popular genres are comedy and drama or a mix of the two and therefore I would recommend starting with movies that contain comedy, drama or both in order to capture public attention.
 
-One of the most important aspects of movie making is the director who is bringing a creative vision to life. Gerald Thomas, Steven Spilberg, and Steven Quale would be great picks to direct some of the first movies that the Microsoft company produces in order to ensure quality based on experience.
+One of the most important aspects of movie making is the director who is bringing a creative vision to life. Tim Story, Andrzej Bartkowiak, and Steven Quale would be great picks to direct some of the first movies that the Microsoft company produces in order to ensure quality based on experience.
 
 # Next Steps
 Further analyses could yield additional insights to further aid in Microsoft's new studio's decisions:
