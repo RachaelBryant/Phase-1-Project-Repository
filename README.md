@@ -29,7 +29,7 @@ The majority of movies are either Drama, Comedy, or Comedy/Drama according to Ro
 
 ![image](https://user-images.githubusercontent.com/65221687/163705747-aaa18f5d-d0e6-4239-ba7f-e723332e932f.png)
 
-The directors with the most movies are Gerald Thomas, Steven Spilberg, and Steven Quale.
+The directors with the most movies are Tim Story, Andrzej Bartkowiak, and Steven Quale.
 
 ![image](https://user-images.githubusercontent.com/65221687/163705760-14a27159-5371-4521-a526-2b38da396dae.png)
 
