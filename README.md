@@ -50,7 +50,7 @@ Predictions from this data about what genre movies or movie budget results in th
 Correlations of whether Directors have an influence over the ratings a movie has received.
 
 # For More Information
-See the full analysis in the Jupyter Notebook or presentation in this repository.
+See the full analysis in the [Jupyter Notebook](https://github.com/rabrya0072/Phase-1-Project-Repository/blob/main/Movie%20Box%20Office%20Analysis%20Project.ipynb) or [presentation](https://github.com/rabrya0072/Phase-1-Project-Repository/blob/main/Phase%201%20project%20presentation.pdf) in this repository.
 
 For additional info, contact Rachael Bryant at Rachaelbryant@flatironschool.com
 
